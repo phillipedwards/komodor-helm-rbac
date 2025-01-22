@@ -1,0 +1,6 @@
+createRbac: false
+serviceAccount:
+  create: false
+  name: komodor-agent
+capabilities:
+  actions: false
